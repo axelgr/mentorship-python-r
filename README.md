@@ -3,7 +3,7 @@ Mentoría - Python/R
 
 ### Python
 - Instalación
-- Variables
+- ### [Variables](https://github.com/axelgr/mentorship-python-r/blob/master/p_01.md)
   - Variables
   - Listas
   - Tuplas
