@@ -2,7 +2,8 @@
 Mentoría - Python/R
 
 ### Python
-- Instalación
+
+- ### [Instalación](https://github.com/axelgr/mentorship-python-r/blob/master/p_00.md)
 - ### [Variables y Operadores](https://github.com/axelgr/mentorship-python-r/blob/master/p_01.md)
 - ### [Condicionales](https://github.com/axelgr/mentorship-python-r/blob/master/p_02.md)
     - If
