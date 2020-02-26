@@ -27,18 +27,18 @@ Mentoría - Python/R
 
 ### R
 
-- Instalación
-- R Básico
-    - Operadores
-    - Paquetes
-    - Importar datos
-    - Funciones básicas
+- ### [Instalación](https://github.com/axelgr/mentorship-python-r/blob/master/r_01.md)
 
-- Tipos de Objetos
-    - Vectors
-    - Matrices
-    - listas
-    - Data frame
+- ### [R Básico](https://github.com/axelgr/mentorship-python-r/blob/master/r_02.md)
+    - Direcotorio de trabajo
+    - Comandos
+
+ ### [R Anexos](https://github.com/axelgr/mentorship-python-r/blob/master/r_03.md)
+    - Librerias
+    - CRAN
+    - Github
+    - Scripting 
+
 
 - R Intermedio
     - Seleccion de datos
