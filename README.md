@@ -9,11 +9,11 @@ Mentoría - Python/R
     - for 
     - While 
 
-- ### [Estrucruras de Datos](https://github.com/axelgr/mentorship-python-r/blob/master/p_03.md)
+- ### [Estructuras de Datos](https://github.com/axelgr/mentorship-python-r/blob/master/p_03.md)
     - listas
     - tuplas
     - diccionarios
-    
+
 - Funciones
     - Funciones
     - Funciones lambda
