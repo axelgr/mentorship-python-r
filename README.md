@@ -14,17 +14,13 @@ Mentoría - Python/R
     - tuplas
     - diccionarios
 
-- Funciones
+- ### [Funciones](https://github.com/axelgr/mentorship-python-r/blob/master/p_04.md)
     - Funciones
     - Funciones lambda
     - map 
     - filter
 
-- Clases
-    - Clases
-    - Metodos
-
-- Adicionales
+- ### [Adicionales](https://github.com/axelgr/mentorship-python-r/blob/master/p_05.md)
     - Numpy
     - Pandas
 
