@@ -41,5 +41,5 @@ Mentoría - Python/R
 
 
 
-### Artilugios
-    - [Kaggle] (https://www.kaggle.com/)
+- ### Artilugios
+    - [Kaggle](https://www.kaggle.com/)
