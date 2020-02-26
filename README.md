@@ -33,15 +33,13 @@ Mentoría - Python/R
     - Direcotorio de trabajo
     - Comandos
 
- ### [R Anexos](https://github.com/axelgr/mentorship-python-r/blob/master/r_03.md)
+- ### [R Anexos](https://github.com/axelgr/mentorship-python-r/blob/master/r_03.md)
     - Librerias
     - CRAN
     - Github
     - Scripting 
 
 
-- R Intermedio
-    - Seleccion de datos
-    - Funciones
-    - Bucles
-    - Gráficos
+
+### Artilugios
+    - [Kaggle] (https://www.kaggle.com/)
